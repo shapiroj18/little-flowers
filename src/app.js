@@ -1,5 +1,5 @@
-import { TitlePage } from "./components/TitlePage";
+import { Entrypoint } from "./Entrypoint";
 
 export function App() {
-  return <TitlePage />;
+  return <Entrypoint />;
 }
