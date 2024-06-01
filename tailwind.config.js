@@ -9,6 +9,10 @@ module.exports = {
       "alice-blue": "#EDF6F9",
       "pale-dogwood": "#FFDDD2",
       "atomic-tangerine": "#E29578",
+      white: "#FFFFFF",
+    },
+    backgroundSize: {
+      48: "48rem",
     },
   },
   plugins: [],
