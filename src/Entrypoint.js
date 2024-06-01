@@ -12,7 +12,11 @@ export function Entrypoint() {
             A tiny React tutorial
           </p>
           <div className="flex justify-center">
-            <Button title="Get Started" link="https://google.com" />
+            <Button
+              variant="primary"
+              title="Get Started"
+              link="https://google.com"
+            />
           </div>
         </div>
       </div>
