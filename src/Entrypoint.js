@@ -15,7 +15,7 @@ export function Entrypoint() {
             <Button
               variant="primary"
               title="Get Started"
-              link="https://google.com"
+              link="/introduction"
             />
           </div>
         </div>
