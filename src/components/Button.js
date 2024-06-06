@@ -14,7 +14,10 @@ export function Button({ variant, title, link }) {
   }
 
   return (
-    <a href={link} className={`button rounded p-1 text-2xl ${variantColors}`}>
+    <a
+      href={link}
+      className={`button rounded px-2 py-1 text-2xl ${variantColors} hover:border-carribean-current border-2`}
+    >
       {title}
     </a>
   );
